@@ -5,7 +5,7 @@
 //  Created by Jim Liakos on 26/02/2018.
 //  Copyright © 2018 Jim Liakos. All rights reserved.
 //
-//Lora Liakos
+//Lora Liakos sana
 import UIKit
 
 @UIApplicationMain
